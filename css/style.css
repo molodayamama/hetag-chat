@@ -42,7 +42,7 @@ h1 {
     margin-bottom: 30px;
 }
 
-.description-text-3 {
+.description-text-3 a {
     text-decoration: none;
     color: white;
 }
