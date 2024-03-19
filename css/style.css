@@ -42,6 +42,11 @@ h1 {
     margin-bottom: 30px;
 }
 
+.description-text-3 a {
+    text-decoration: none;
+    color: white;
+}
+
 .gallery {
     padding: 10px 0;
 }
